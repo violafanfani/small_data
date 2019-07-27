@@ -1,0 +1,13 @@
+name: summer
+channels:
+- conda-forge
+dependencies:
+- python=3.6
+- jupyter
+- matplotlib
+- pandas
+- seaborn
+- scipy
+- pymc3
+- numpy=1.15
+- scipy
