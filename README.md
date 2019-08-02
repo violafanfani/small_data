@@ -6,6 +6,8 @@
 This repo contains the notebooks and python scripts for the afternoon labs of the
 Learning from Small Data course.
 
+**Hierarchical model example**:https://github.com/fonnesbeck/multilevel_modeling
+
 **Notebook 1**: Intro to PyMC3, linear and non-linear regression, first models
 and basic exercises.
 
